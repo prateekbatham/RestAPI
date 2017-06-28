@@ -1,0 +1,241 @@
+
+
+{"leadRequest":
+
+                {  
+
+                   "leadId":"",   
+
+                  
+"associatedLeadId":"",                                                               
+
+                   "contactDetails":{  
+
+                                  "partyId":"",                                                                                     
+
+                                  "name":{  
+
+                                                 "salutation":"",                                                                
+
+                                                 "firstName":"",                                                                                
+
+                                                 "middleName":"",                                                                          
+
+                                                 "lastName":""                                                                                  
+
+                                  },
+
+                                  "gender":"",                                                                                                                                     
+
+                                  "nationality":"",                                                                                              
+
+                                  "mobileNumber":"",                                                                    
+
+
+                                  "emailId":"",                                                                                                    
+
+                                  "telephoneNumber":"",                                                                             
+
+                                  "addresses":[                                                                                  
+
+                                                {  
+
+                                                   "addressId":"",
+
+                                                   "buildingId":"",                                                              
+
+                                                   "locality":"",                                                                    
+
+                                                   "building":"",                                                                  
+
+                                                   "subUnitNr":"",                                                                             
+
+                                                   "buildingName":"",                                                      
+
+                                                   "streetName":"",                                                                          
+
+                                                   "societyName":"",                                                        
+
+                                                   "landmark":"",                                                               
+
+                                                   "locality":"",                                                                    
+
+                                                   "subLocality":"",                                            
+
+                                                   "postcode":"",                                                               
+
+
+                                                   "city":"",                                                                                           
+
+                                                   "district":"",                                                                     
+
+                                                   "state":"",                                                        
+
+                                                   "country":"",                                                                   
+
+                                                   "careOf":"",                                                                     
+
+                                                   "nbFloor":"",                                                                   
+
+                                                   "jioCenterId":"",                                                           
+
+                                                   "addressType":"",                                                        
+
+                                                   "wing":"",                                                                                         
+
+                                                   "levelNumber":""                                         
+
+                                                   
+
+                                                }
+
+
+                                
+
+                                  ]
+
+                   },
+
+                   "companyDetails":{  
+
+                                  "name":"",                                                                                                        
+
+                                  "partyId":"",                                                                                                     
+
+                                  "type":"",                                                                                                          
+
+                                  "productDetails":[ 
+
+                                                {
+
+                                                                "productCode":"",                                                           
+
+                                                                "productName":"",                                                         
+
+                                                                "serviceType":"",                                                             
+
+                                                                "productQuantity":"",                                     
+
+                                                                "lastMileAccess":"",                                        
+
+                                                                "bandWidnthFLNDetails":""        
+
+                                                }
+
+                                  ]
+
+                                  
+
+                                  
+
+                   },
+
+                   "siteDetails":[                                                                                                 
+
+                                                {  
+
+                                                   "addressId":"",
+
+                                                   "buildingId":"",                                                                              
+
+                                                   "locality":"",                                                                    
+
+                                                   "building":"",                                                                  
+
+                                                   "subUnitNr":"",                                                                             
+
+                                                   "buildingName":"",                                                      
+
+                                                   "streetName":"",                                                                          
+
+                                                   "societyName":"",                                                        
+
+                                                   "landmark":"",                                               
+
+                                                   "locality":"",                                                                    
+
+                                                   "subLocality":"",                                            
+
+                                                   "postcode":"",                                                                               
+
+
+                                                   "city":"",                                                                           
+
+                                                   "district":"",                                                                     
+
+                                                   "state":"",                                                                        
+
+                                                   "country":"",                                                                                                                      "careOf":"",                                                                                     
+
+                                                   "nbFloor":"",                                                                   
+
+                                                   "jioCenterId":"",                                                           
+
+                                                   "addressType":"",                                                        
+
+                                                   "wing":"",                                                                                         
+
+                                                   "levelNumber":"",                                        
+
+                                                   "longitude":"",                                                               
+
+                                                   "lattitude":"",                                                                 
+
+                                                   "storeAreaInMeters":""                                            
+
+                                                }
+
+                   ],
+
+                   
+
+                   "segmentDetails":[  
+
+                                                {
+
+                                                                "attributeName":"",                                       
+
+                                                                "attributeValue":""                                                         
+
+                                                }
+
+                   ],
+
+                   "industryType":[  
+
+                                                {
+
+                                                                "attributeName":"",                                       
+
+                                                                "attributeValue":""                                         
+
+                                                }
+
+                   ],
+
+                   "leadSourceDetails":[  
+
+                                                {
+
+                                                                "attributeName":"",                                                       
+
+                                                                "attributeValue":""                                         
+
+                                                }
+
+                   ],
+
+                   "channel":{  
+
+                                  "agentCode":"",                                                                                             
+
+                                  "id":"",                                                                                                                
+
+                                  "name":""                                                                                         
+
+                   }
+
+                }
+
+}
+
